@@ -33,4 +33,4 @@ This example was selected because it is obvious that the third heartbeat is the 
 - Distances between the descriptors are summed up plotted on the bars graphs
 - There are 21 bars in each of the six distance graphs that tells how different are heartbeats while comparing them to each other
 
-It is up to us depending on the data to define a threshold and say when a difference is "too big" to classify the data as an anomaly.  This can be two standard deviations or something meaninful that allows us to classify data correctly depending on the context of the problem:
+It is up to us depending on the data to define a threshold and say when a difference is "too big" to classify the data as an anomaly.  This can be two standard deviations or something meaninful that allows us to classify data correctly depending on the context of the problem.  The graphs above show how the difference was catched by topological distances.
